@@ -98,6 +98,7 @@
 - Модуль budget_manager.py
 - Модуль tree.py
 - Оформление репозитория и readme
+
 Кудашова Полина:
 - Модуль expenses.py
 - Модуль categories.py
